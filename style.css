@@ -1,0 +1,52 @@
+/*
+Theme Name: Euro-Rent
+
+*/
+
+@import url("stylesheets/skeleton.css");
+@import url("stylesheets/stylesheet.css");
+@import url("stylesheets/flexslider.css");
+@import url("stylesheets/prettyPhoto.css");
+@import url("stylesheets/carousel.css");
+
+h1.strglowna {
+   text-align: center;
+    padding-top: 43px;
+    font-size: 25pt;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: #fff;
+}
+
+h2.strglowna {
+    color: #fff;
+    font-size: 15pt;
+    text-align: center;
+    margin-top: -8px;
+    margin-bottom: 60px;
+}
+
+h1.wyndlugoterm {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25pt;
+    color: #3E82F9;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+h3.strglowna2 {
+    text-align: center;
+    padding-top: 0px;
+    font-size: 24pt;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+h3.strglowna2 a{
+	color: #d92b3a;
+	font-weight: 600;
+	text-decoration: none;
+}
